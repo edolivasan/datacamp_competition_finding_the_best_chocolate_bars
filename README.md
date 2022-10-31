@@ -20,6 +20,8 @@ Create a report to summarize your research. Include:
 3. There is a relationship between the cocoa content in the chocolate bars and the ratings. This means that **if the chocolate bar contains cocoa, it has a higher rating on average.** And **most best rating chocolate bars have on average between 70 and 71 percentage of cocoa content.**
 4. **The chocolate bars that do not contain lecithin have, on average, a higher rating** than the chocolate bars that do have lecithin.
 
+# Links
+
 For more information about the competition: https://app.datacamp.com/learn/competitions/chocolate-bar-ratings
 
 Publication submitted: https://app.datacamp.com/workspace/w/8bed35ed-988e-417f-baf9-6f12251979dd
