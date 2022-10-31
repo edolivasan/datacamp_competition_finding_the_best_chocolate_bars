@@ -12,3 +12,7 @@ Create a report to summarize your research. Include:
 - [Optional] How does cocoa content relate to rating? What is the average cocoa content for bars with higher ratings (above 3.5)?
 - [Optional 2] Your research indicates that some consumers want to avoid bars with lecithin. Compare the average rating of bars with and without lecithin (L in the ingredients).
 - Summarize your findings.
+
+Publication submitted: https://app.datacamp.com/workspace/w/8bed35ed-988e-417f-baf9-6f12251979dd
+
+For more information about the competition: https://app.datacamp.com/learn/competitions/chocolate-bar-ratings
